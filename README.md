@@ -34,7 +34,7 @@ Hey, I'm **Dorian**, a French 🇫🇷 Student who loves development and IT, Lea
 **Let me tell you a little bit about myself:**
 
 - 🌌 Always working on new ideas and Discord bots!
-- 🌱 Currently working hard for my school studies.
+- 📚 Currently working hard for my school studies.
 - 🏷️ Time is precious, spend it wisely!
 - 📌 Discuss with me at any time on Discord: [@Dorian349](https://discord.gg/qGRcjb7)
 
