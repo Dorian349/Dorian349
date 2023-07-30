@@ -23,7 +23,7 @@
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tesla.svg" />
 </a>
 
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carlone-dorian) 
 <br/>
 
 Hey, I'm **Dorian**, a French 🇫🇷 Student who loves development and IT, Leading developer of [@Prism](https://top.gg/bot/673918978178940951), and [@MyBrawlStats](https://top.gg/bot/466204515390193674). Two Discord bots with respectively `75.000` and `13.000` servers.<br/>
@@ -54,7 +54,6 @@ Hey, I'm **Dorian**, a French 🇫🇷 Student who loves development and IT, Lea
 <code><img height="20" src="https://i.imgur.com/br17aRj.png"></code>
 
 [![](https://visitcount.itsvg.in/api?id=Dorian349&label=Profile%20Views&color=0&icon=1&pretty=true)](https://visitcount.itsvg.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carlone-dorian) 
 <br/>
 
 ## GitHub Statistics
