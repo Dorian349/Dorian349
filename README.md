@@ -53,7 +53,10 @@ Hey, I'm **Dorian**, a French 🇫🇷 Student who loves development and IT, Lea
 <code><img height="20" src="https://i.imgur.com/wFYNKYX.png"></code>
 <code><img height="20" src="https://i.imgur.com/br17aRj.png"></code>
 
+[![](https://visitcount.itsvg.in/api?id=Dorian349&label=Profile%20Views&color=0&icon=1&pretty=true)](https://visitcount.itsvg.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carlone-dorian) 
 <br/>
 
 ## GitHub Statistics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Dorian349&count_private=true&show_icons=true&theme=algolia" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Dorian349&count_private=true&show_icons=true&include_all_commits=true&theme=react" alt="abhisheknaiidu" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dorian349&theme=react&hide_border=false" /> </p>
