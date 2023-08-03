@@ -57,5 +57,5 @@ Hey, I'm **Dorian**, a French 🇫🇷 Student who loves development and IT, Lea
 <br/>
 
 ## GitHub Statistics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Dorian349&count_private=true&show_icons=true&include_all_commits=true&theme=react" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats-d9qg-7s0ylj3xr-dorian349.vercel.app/api?username=Dorian349&count_private=true&show_icons=true&theme=react" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dorian349&theme=react&hide_border=false" /> </p>
